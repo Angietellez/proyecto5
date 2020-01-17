@@ -1,0 +1,67 @@
+body {background-color: #6b4e90;
+}
+
+h1{text-align: center;
+font-size: 50px;
+}
+
+
+nav {text-align: center;
+font-size: 35px;
+}
+
+
+a {color: violet;
+margin: 35px;
+}
+
+
+.menu:hover { color: lightblue;
+}
+
+
+img {clear: both;
+float: right;
+margin: 65px 60px 0px 0px;
+display: block;
+}
+
+
+p {color: black;
+}
+
+section:hover {color: lightcoral;
+}
+
+
+section { width: 50%;
+margin: 20px 0px 0px 30px;
+text-align: left;
+font-size: 25px;
+float: left;
+color: white;
+clear: both;
+float: left;
+text-align: justify;
+}
+
+
+aside {width: 47%;
+margin: 15 px;
+font-size: 17px;
+float: right;
+font-size: 19px;
+}
+
+div {float: right;
+text-align: center;
+margin: 65px;
+}
+
+
+.piedepagina {color: violet; 
+border-style: solid; border: 2px;
+text-align: justify;
+}
+
+
